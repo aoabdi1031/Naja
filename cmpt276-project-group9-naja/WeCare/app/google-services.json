@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "432378142601",
+    "firebase_url": "https://naja-4c457-default-rtdb.firebaseio.com",
+    "project_id": "naja-4c457",
+    "storage_bucket": "naja-4c457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432378142601:android:75438f213130ce1f534b58",
+        "android_client_info": {
+          "package_name": "com.example.loginsys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432378142601-rumpb9dmuocjo1pbufn1v5enu3rrfq7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-el_QdPDluisrotIMqxsL0EdCaxux2Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432378142601-rumpb9dmuocjo1pbufn1v5enu3rrfq7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432378142601:android:d50e984eb768fc90534b58",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432378142601-rumpb9dmuocjo1pbufn1v5enu3rrfq7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-el_QdPDluisrotIMqxsL0EdCaxux2Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432378142601-rumpb9dmuocjo1pbufn1v5enu3rrfq7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432378142601:android:db829d6e40f6d2a6534b58",
+        "android_client_info": {
+          "package_name": "com.example.wecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432378142601-rumpb9dmuocjo1pbufn1v5enu3rrfq7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-el_QdPDluisrotIMqxsL0EdCaxux2Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432378142601-rumpb9dmuocjo1pbufn1v5enu3rrfq7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
